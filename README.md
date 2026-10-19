@@ -2,7 +2,7 @@
 
 Submitted unigram, bigram and trigram model tables with a language-modeling report.
 
-**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year:** Year 3
+**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year / Section:** Year 3 — BSCS 3-A
 
 ## Methodology
 
